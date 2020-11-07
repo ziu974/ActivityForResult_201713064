@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Drop Shadow Stack -->
+
+    <!-- 그냥 이거 그림자랑 배경까지 이미지 하나로 만들어버리자 -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#ff2223dd"
+                android:endColor="#ff333333"
+                android:angle="90">
+
+            </gradient>
+        </shape>
+    </item>
+
+
+</selector>
